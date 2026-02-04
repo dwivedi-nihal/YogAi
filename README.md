@@ -89,7 +89,8 @@ Output Layer → Yoga Pose Prediction
 ## Contributors
 
 - Nihal Dwivedi  
-- Rajat Dogra  
+- Rajat Dogra
+- Mayank Nayal
 
 ---
 
