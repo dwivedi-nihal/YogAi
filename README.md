@@ -89,7 +89,6 @@ Output Layer → Yoga Pose Prediction
 ## Contributors
 
 - Nihal Dwivedi  
-- Mayank Nayal  
 - Rajat Dogra  
 
 ---
@@ -97,7 +96,3 @@ Output Layer → Yoga Pose Prediction
 ## Conclusion
 
 Y0G A! integrates AI with yoga practice to provide real-time monitoring and feedback. It helps users perform yoga efficiently and accurately.
-
----
-
-⭐ If you like this project, please give it a star on GitHub!
